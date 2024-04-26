@@ -26,3 +26,4 @@ clear_button.pack(pady=5)
 
 # Run the application
 root.mainloop()
+# Chibz@full stack-dev
