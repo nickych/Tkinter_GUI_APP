@@ -10,7 +10,7 @@ def clear_entry():
 root = tk.Tk()
 root.title("Dashboard App")
 
-# Create and add widgets
+# Creating and adding widgets
 label_text = tk.StringVar()
 label = tk.Label(root, textvariable=label_text, font=("Helvetica", 16))
 label.pack(pady=20)
