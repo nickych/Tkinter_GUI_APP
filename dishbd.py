@@ -6,7 +6,7 @@ def update_label():
 def clear_entry():
     entry.delete(0, tk.END)
 
-# main window
+# the main window
 root = tk.Tk()
 root.title("Dashboard App")
 
