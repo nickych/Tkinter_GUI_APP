@@ -24,7 +24,6 @@ update_button.pack(pady=5)
 clear_button = tk.Button(root, text="Clear Entry", command=clear_entry)
 clear_button.pack(pady=5)
 
-
 # Run the application
 root.mainloop()
 # Chibz@full stack-dev
