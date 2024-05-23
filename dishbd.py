@@ -3,6 +3,7 @@ import tkinter as tk
 def update_label():
     label_text.set(entry.get())
 
+
 def clear_entry():
     entry.delete(0, tk.END)
 
